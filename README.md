@@ -12,7 +12,7 @@ DURATION : 8 WEEKS
 
 MENTOR : NEELA SANTHOSH
 
-DESCRIPTION:
+**DESCRIPTION:**
 
 This project is a Speech-to-Text Transcription Tool developed in Python using the speech_recognition library. It allows users to speak through a microphone and automatically transcribes the spoken words into written text. The tool is designed to be interactive, user-friendly, and efficient, making it a great fit for projects or internships in the Artificial Intelligence (AI) and Natural Language Processing (NLP) domains.
 
