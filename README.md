@@ -20,7 +20,7 @@ The tool captures voice input through the system's default microphone, processes
 
 This tool demonstrates core AI concepts including speech recognition, real-time audio processing, API integration, and error handling — making it highly useful for educational purposes, prototype development, or research in human-computer interaction.
 
-##Key Features and Functionality:
+## Key Features and Functionality:
 
 **1.Microphone-Based Voice Input:**
 
